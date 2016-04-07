@@ -33,8 +33,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="basichtml.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="basichtml.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/basichtml.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="255">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HTMLEx.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HTMLEx.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.17268623" vertical-offset="0" max-vertical-offset="886">
               <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
@@ -65,6 +75,7 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/basichtml.html" />
+        <option value="$PROJECT_DIR$/HTMLEx.html" />
       </list>
     </option>
   </component>
@@ -370,6 +381,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/basichtml.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="255">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTMLEx.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17268623" vertical-offset="0" max-vertical-offset="886">
           <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
